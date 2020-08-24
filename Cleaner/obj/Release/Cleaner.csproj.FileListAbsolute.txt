@@ -1,0 +1,17 @@
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\bin\Release\Cleaner.exe.config
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\bin\Release\Cleaner.exe
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\bin\Release\Cleaner.pdb
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\obj\Release\Cleaner.exe
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\obj\Release\Cleaner.pdb
+C:\Users\juzad\source\repos\Cleaner\Cleaner\bin\Release\Cleaner.exe.config
+C:\Users\juzad\source\repos\Cleaner\Cleaner\bin\Release\Cleaner.exe
+C:\Users\juzad\source\repos\Cleaner\Cleaner\bin\Release\Cleaner.pdb
+C:\Users\juzad\source\repos\Cleaner\Cleaner\obj\Release\Cleaner.exe
+C:\Users\juzad\source\repos\Cleaner\Cleaner\obj\Release\Cleaner.pdb
+C:\Users\juzad\source\repos\Cleaner\Cleaner\obj\Release\Cleaner.csprojAssemblyReference.cache
+C:\Users\juzad\Desktop\Složka\1pičo\repos backup\repos\Cleaner\Cleaner\obj\Release\Cleaner.csprojAssemblyReference.cache
+C:\Users\juzad\Desktop\Složka\1pičo\repos backup\repos\Cleaner\Cleaner\bin\Release\Vysavač.exe.config
+C:\Users\juzad\Desktop\Složka\1pičo\repos backup\repos\Cleaner\Cleaner\bin\Release\Vysavač.exe
+C:\Users\juzad\Desktop\Složka\1pičo\repos backup\repos\Cleaner\Cleaner\bin\Release\Vysavač.pdb
+C:\Users\juzad\Desktop\Složka\1pičo\repos backup\repos\Cleaner\Cleaner\obj\Release\Vysavač.exe
+C:\Users\juzad\Desktop\Složka\1pičo\repos backup\repos\Cleaner\Cleaner\obj\Release\Vysavač.pdb

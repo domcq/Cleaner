@@ -1,0 +1,12 @@
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.csprojAssemblyReference.cache
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\juzad\source\repos\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
+C:\Users\juzad\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\juzad\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\juzad\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\juzad\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csprojAssemblyReference.cache
+C:\Users\juzad\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\juzad\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
